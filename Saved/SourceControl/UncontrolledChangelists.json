@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Structs/DialogueLineStruct.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Data/DT_BossDialogue.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Widgets/WBP_DialogueBox.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC_Enemy.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/2B/NT0HDJNRQR1AZG84DLTR9M.uasset"
+			]
+		}
+	]
+}
