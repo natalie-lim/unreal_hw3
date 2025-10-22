@@ -9,8 +9,15 @@
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Data/DT_BossDialogue.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Widgets/WBP_DialogueBox.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC_Enemy.uasset",
-				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC.uasset",
-				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/2B/NT0HDJNRQR1AZG84DLTR9M.uasset"
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/2B/NT0HDJNRQR1AZG84DLTR9M.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC_AIController.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BT_NPCBehavior.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BB_NPCBehavior.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/Attack/AnimNotify.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/Attack/AN_DealDamage.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BTTask_MeleeAttack.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BB_NPC_Behavior.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC.uasset"
 			]
 		}
 	]
