@@ -13,11 +13,13 @@
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC_AIController.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BT_NPCBehavior.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BB_NPCBehavior.uasset",
-				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/Attack/AnimNotify.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/Attack/AN_DealDamage.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BTTask_MeleeAttack.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/Attack/Melee_Montage.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Widgets/WBP_FightingWidgets.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/Characters/Mannequins/Anims/Unarmed/Attack/AnimNotify.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BB_NPC_Behavior.uasset",
 				"/Users/natalielim/Documents/Unreal Projects/HW3/Content/NPC/BP_NPC.uasset"
 			]
